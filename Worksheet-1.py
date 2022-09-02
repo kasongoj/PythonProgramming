@@ -4,7 +4,7 @@
 # First written: 09/01/2022, 09:48:00 PM
 # # Last changed: 09/01/2022, 09:48:00 PM
 print ('Python Lab 1a: The print function, Unicode values')
-print ('\t')
+print ('\n')
 print ('Joseph Kasongo')
 print ('Lubumbashi')
 print (4 * 11 * 29)
@@ -15,9 +15,9 @@ favMonth = 'February'
 print (favNumber)
 print (favMonth)
 print ('\u03a3' + ' Greek Capital Letter Sigma')
-print ('\t')
+print ('\n')
 print ('Python Lab 1b: Binary, Decimal, Hex')
-print ('\t')
+print ('\n')
 print (11, 29*4, 'Favorite Numbers')
 x = 29
 print (x, bin(x), hex(x)) 
@@ -28,6 +28,3 @@ w = x + y + z
 print ('the sum is ' , w)
 print (11, 29,'four', sep=',')
 print (0, 1,'two', sep=' ')
-
-
-
