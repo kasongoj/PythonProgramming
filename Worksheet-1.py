@@ -27,7 +27,7 @@ print (11, 29*4, "Favorite Numbers")
 x = 29
 print (x, bin(x), hex(x)) 
 y = 0b100
-z = 0x1d
+z = 0x1D
 print("If I change the value of x to a decimal number (for example: 29.429), I get a TypeError that says 'Float object cannot be interpreted as an integer'\n The reason why I get this error is because I am assigning a float value to a function that is expecting an integer value.")
 print (y, z)
 w = x + y + z
