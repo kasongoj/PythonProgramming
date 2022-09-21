@@ -10,6 +10,6 @@
 #         print(i, end=" \n")
 
 print("Alternate Approach")
-for k in range(1,101):
+for k in range(1,51):
     print(((2*k)-1), end=" ")
 
