@@ -2,8 +2,8 @@
 programmer: Joseph Kasongo
 program: natural numbers
 version:1.0.0
-created on: 09/26/2022 08:04:00
-last modified: 09/30/2022 08:17:00
+created on: 09/26/2022 08:04:00 AM
+last modified: 09/30/2022 09:29:00 PM
 
 """
 print("Welcome to mathematical operations")
