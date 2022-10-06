@@ -6,7 +6,7 @@ created on: 10/06/2022 04:09:00 PM
 last modified: 10/06/2022 04:11:00 PM
 
 """
-print("Odd numbers using For Loop\n")
+print("Odd numbers using For Loop")
 for i in range(1,100,2):
     print(i, end=" ")
 print("\nOdd numbers using For Loop")
@@ -26,11 +26,11 @@ while i<=100:
         print(i, end=" ")
     i+=1
 
-print("\nEven numbers")
+print("\nEven numbers using For Loop")
 for i in range(1,101):
     if i%2==0:
         print(i, end=" ")
-print("\nEven numbers")
+print("\nEven numbers using While Loop")
 i=2
 while i<=100:
     if i%2==0:
