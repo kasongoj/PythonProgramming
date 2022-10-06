@@ -1,7 +1,7 @@
 """
 programmer: Joseph Kasongo
 program: midterm preparation package
-version:1.0.0
+version:3.10.
 created on: 10/06/2022 04:09:00 PM
 last modified: 10/06/2022 04:11:00 PM
 
