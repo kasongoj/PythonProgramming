@@ -1,8 +1,10 @@
-# Programmer: Joseph Kasongo
-# Program: Python Worksheet-1
-# Version: Python 3.8.2
-# First written: 09/01/2022, 09:48:00 PM
-# # Last changed: 09/09/2022, 12:49:00 PM
+"""
+programmer: Joseph Kasongo
+program: Python Worksheet-1
+python version: Python 3.10.7
+First written: 09/01/2022, 09:48:00 PM
+last modified: 11/1/2022 09:17:00 AM
+"""
 print ("Python Lab 1a: The print function, Unicode values")
 print ("\n")
 print ("Joseph Kasongo")
