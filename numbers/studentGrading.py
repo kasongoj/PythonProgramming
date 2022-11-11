@@ -1,3 +1,11 @@
+""""
+programmer: Joseph Kasongo
+program: Student Grading
+python version: Python 3.10.7
+created on: 09/24/2022 09:36:00 PM
+last modified: 11/11/2022 09:08:00 AM
+version:1.0.0
+"""
 print("Welcome to Grade Assignment \n")
 name = input("Student Name: ")
 ID = input("Student SC ID: ")
