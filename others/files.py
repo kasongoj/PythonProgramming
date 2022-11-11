@@ -6,7 +6,7 @@
 # f.write("adding another line to input file")
 # print(f.read())
 g = open("inputFile1", "w")
-g.write("kasongo")
+g.write("kasongo Joseph")
 g = open("inputFile1", "r")
 print(g.read())
 
