@@ -11,7 +11,7 @@ time=int(input("Enter time= "))
 if time>=8 and time<18:
     print("Enjoy Working")
 else:
-    print("Go Home")
+    print("Go Home!")
 print("\nQuestion3: Printing odd numbers from first 500 natural numbers:\n")
 for i in range(1,500):
         if i%2!=0:
