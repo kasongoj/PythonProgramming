@@ -1,7 +1,7 @@
 """
 programmer: Joseph Kasongo
 program: midterm preparation package
-version:3.10.
+version:Python 3.10.7
 created on: 10/06/2022 04:09:00 PM
 last modified: 10/06/2022 04:11:00 PM
 
@@ -81,5 +81,7 @@ if number==sum:
     print(number, "is an Armstrong number")
 else:
     print(number, "is not an Armstrong number")
+
+print("Bravo champion!")
 
 
