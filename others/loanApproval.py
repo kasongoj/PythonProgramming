@@ -1,3 +1,10 @@
+""""
+programmer: Joseph Kasongo
+program: assignment 2
+version: Python 3.10.7
+created on: 09/24/2022 09:36:00 PM
+last modified: 11/11/2022 09:17:00 AM
+"""
 print("Enter True or False for the statement below:")
 P = input("Enter 1 if you have served in the armed forces or else enter 0\t")
 Q = int(input("Enter you FICO score\t"))
