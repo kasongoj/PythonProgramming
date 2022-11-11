@@ -4,8 +4,8 @@
 # Last Changed: 08/29/2022 08:39:00 CST
 # Version: Python 3.8.2
 print("Arithmetic Operation")
-firstInput = 5
-secondInput = 10
+firstInput = 7
+secondInput = 11
 
 print ("sum of given numbers is ", firstInput + secondInput)
 print ("the difference of given numbers is ", secondInput - firstInput)
